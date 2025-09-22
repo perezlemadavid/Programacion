@@ -6,5 +6,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 
 | Ejercicio | Descripción |
 |-----------|-------------|
-| [Ejercicio 1](Programacion/segundos.java) | Página web sencilla con HTML |
+| [Ejercicio 1](segundos.java) | Página web sencilla con HTML |
 
