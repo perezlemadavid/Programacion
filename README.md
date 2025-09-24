@@ -6,5 +6,5 @@ Este repositorio incluye actividades llevadas a cabo en el módulo de Programaci
 
 | Ejercicio | Descripción |
 |-----------|-------------|
-| [Ejercicio 1](segundos.java) | calcular minutos y segundos apartir de segundos |
-
+| [Ejercicio 1](segundos.java) | calcular minutos y segundos a partir de segundos |
+| [Ejercicio 2](Monedas.java) | calcular cuantas monedas hay a partir de un valor |
